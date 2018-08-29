@@ -11,4 +11,12 @@ public class Kaart {
         this.type = type;
 
     }
+
+    public char getWaarde() {
+        return waarde;
+    }
+
+    public char getType() {
+        return type;
+    }
 }
